@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas09009
-- 👀 I’m a DI Student ...
+- 👀 I’m a DI Student in TOGO.
    ...
 
 <!---
