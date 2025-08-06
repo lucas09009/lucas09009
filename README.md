@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas09009
-- 👀 I’m a DI Student in TOGO.
-   ...
+- 👀 I was a DI Student in TOGO.
+- Now, I am a PLP ACADEMY student...
 
 <!---
 lucas09009/lucas09009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
