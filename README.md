@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucas09009
-- 👀 I was a DI Student in TOGO.
+- 👋 Hi, I’m @lucas09009, Junior Developer 👨‍💻
+- 👀 I was a DI Student in TOGO. 
 - Now, I am a PLP ACADEMY student...
 
 <!---
